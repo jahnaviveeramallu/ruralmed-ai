@@ -1,0 +1,14 @@
+.result-card { background: white; border-radius: var(--radius); box-shadow: var(--shadow); margin-top: 24px; overflow: hidden; }
+.result-header { background: linear-gradient(135deg, #1e3a5f, #2563eb); color: white; padding: 24px; }
+.result-header h2 { font-size: 22px; }
+.result-section { padding: 20px 24px; border-bottom: 1px solid var(--gray-200); }
+.result-section h3 { font-size: 16px; margin-bottom: 12px; color: var(--gray-800); }
+.condition-text { font-size: 18px; font-weight: 600; padding: 16px; background: var(--gray-50); border-radius: 8px; border-left: 4px solid var(--primary); }
+.referral-box { margin: 16px 24px; padding: 20px; border-radius: 10px; border: 2px solid; }
+.refer-yes { background: #fef2f2; border-color: #fca5a5; }
+.refer-yes h3 { color: var(--danger); font-size: 16px; margin-bottom: 6px; }
+.refer-no { background: #f0fdf4; border-color: #86efac; }
+.refer-no h3 { color: var(--success); font-size: 16px; margin-bottom: 6px; }
+.result-section ul { padding-left: 20px; }
+.result-section li { padding: 6px 0; }
+.disclaimer { padding: 16px 24px; font-size: 12px; color: var(--gray-600); background: var(--gray-50); }
